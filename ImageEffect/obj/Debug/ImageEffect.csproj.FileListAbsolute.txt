@@ -1,0 +1,10 @@
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\bin\Debug\ImageEffect.exe.config
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\bin\Debug\ImageEffect.exe
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\bin\Debug\ImageEffect.pdb
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\obj\Debug\ImageEffect.csprojAssemblyReference.cache
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\obj\Debug\ImageEffect.Form1.resources
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\obj\Debug\ImageEffect.Properties.Resources.resources
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\obj\Debug\ImageEffect.csproj.GenerateResource.cache
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\obj\Debug\ImageEffect.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\obj\Debug\ImageEffect.exe
+C:\Users\Moosa Raza\Documents\Programming\ImageEffect\ImageEffect\obj\Debug\ImageEffect.pdb
